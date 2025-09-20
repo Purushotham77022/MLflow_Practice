@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/89baf0f002b44735826e903e62045c7b/artifacts
+end_time: 1758388611223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89baf0f002b44735826e903e62045c7b
+run_name: blushing-sow-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758388611019
+status: 4
+tags: []
+user_id: 3248yk

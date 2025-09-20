@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/48a481365d324a479a62ac09225fd45f/artifacts
+end_time: 1758388688595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48a481365d324a479a62ac09225fd45f
+run_name: respected-mouse-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758388688488
+status: 3
+tags: []
+user_id: 3248yk
