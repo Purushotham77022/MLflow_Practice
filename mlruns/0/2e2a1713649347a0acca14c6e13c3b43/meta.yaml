@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2e2a1713649347a0acca14c6e13c3b43/artifacts
+end_time: 1758704004698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e2a1713649347a0acca14c6e13c3b43
+run_name: adaptable-worm-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758704004583
+status: 3
+tags: []
+user_id: 3248yk
